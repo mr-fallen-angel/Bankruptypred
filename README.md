@@ -17,12 +17,9 @@ This model analyzes financial ratios of Taiwanese companies to predict bankruptc
 
 ```
 .
-├── bankrupt_final_clean.ipynb       # Original Jupyter notebook
-├── main_modular_script.py           # Modular notebook-style script
-├── utils.py                         # General-purpose helper functions
-├── my_bankruptcy_project.py         # Domain-specific logic (e.g., plotting)
-├── bankruptcy_model.py              # Model definition and training logic
-├── requirements.txt                 # Project dependencies
+├── bankruptcy_pred.ipynb       # Original Jupyter notebook
+├── requirements.txt            # Project dependencies
+├── data.csv                    # Dataset
 ```
 
 ---
@@ -30,12 +27,12 @@ This model analyzes financial ratios of Taiwanese companies to predict bankruptc
 ## Getting Started
 
 ### 1. Install Dependencies
-```bash
+```
 pip install -r requirements.txt
 ```
 
 ### 2. Run the Project
-- Open the notebook or run `main_modular_script.py`
+- Open the notebook 
 - Ensure the dataset is downloaded and accessible
 - 
 ---
