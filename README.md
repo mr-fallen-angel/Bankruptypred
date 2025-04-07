@@ -1,4 +1,4 @@
-# Taiwanese Bankruptcy Prediction
+# Bankruptcy Prediction
 
 This model analyzes financial ratios of Taiwanese companies to predict bankruptcy, using machine learning models and a modular Python pipeline.
 
